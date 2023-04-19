@@ -52,7 +52,7 @@ app_ui = ui.page_fluid(
             ui.output_plot("plot"),
             ui.markdown(
         """
-        ### Why normal distributions are normal
+        ### Why normal distributions are normal aka das ist ein Test lol
 
         Chapter 3 of [Statistical Rethinking's](https://xcelab.net/rm/statistical-rethinking/) by Prof. Richard McElreath focuses on normal distribution
         and its characteristics. It illustrates how to generate a normal distribution using the soccer field experiment:
